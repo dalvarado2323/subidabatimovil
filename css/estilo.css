@@ -1,0 +1,17 @@
+h1 p {
+   
+    padding: 50px;
+    border: 40px;
+    border-color: black ;
+    margin: 20px;
+    background-color: burlywood;
+    
+    text-align:center;
+    
+    text-decoration-color: blue;
+  
+}
+
+p{
+    text-decoration-color: blue;
+}
